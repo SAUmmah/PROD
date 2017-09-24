@@ -34,9 +34,9 @@ var MapsLib = MapsLib || {}; MapsLib.schemaVersion = 2;
 
     // *New Fusion Tables Requirement* API key. found at https://code.google.com/apis/console/
     // *Important* this key is for demonstration purposes. please register your own.
-   // MapsLib.googleApiKey ="AIzaSyAt-73WNp-LVpud_sSlwJ7lk73sYSNq_4o";
+    MapsLib.googleApiKey ="AIzaSyAt-73WNp-LVpud_sSlwJ7lk73sYSNq_4o";
  //   MapsLib.googleApiKey ="AIzaSyAR5eeFETe-sMigouZtPABzHpyA02MGyjQ";
-    MapsLib.googleApiKey ="157cd2bdfe76e4f291419b396a5c1b7dd8bc7b92";
+    
     
 
     // DONE!  YOU COULD DELETE EVERYTHING AFTER THIS POINT AND STILL HAVE A WORKING APP.
